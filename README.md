@@ -1,5 +1,6 @@
 # Clone Netflix
 
-## Recriada a interface da plataforma de videos por streaming Netflix
+## Recriada a interface da principal plataforma de streaming, NETFLIX.
 
-<src img="capa.png">
+### A
+<img src="img/capa.png">
